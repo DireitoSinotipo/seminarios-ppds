@@ -1,0 +1,14 @@
+[
+  {
+    "id": "insc-01",
+    "alunoId": "aluno-05-rafael",
+    "aulaId": 3,
+    "criadoEm": "2026-03-06T12:26:40.000Z"
+  },
+  {
+    "id": "insc-02",
+    "alunoId": "aluno-07-david",
+    "aulaId": 3,
+    "criadoEm": "2026-03-06T13:10:55.000Z"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": 2,
+    "titulo": "Direito, políticas públicas e o campo jurídico (1)",
+    "subtitulo": "Direito como produto social. Campo jurídico, poder simbólico e crítica à dogmática. Direito e políticas públicas como prática institucional.",
+    "textos": [
+      {
+        "id": "t2-1",
+        "autor": "BUCCI, Maria Paula Dallari",
+        "titulo": "Políticas Públicas: reflexões sobre o conceito jurídico",
+        "resumo": "Bucci propõe uma definição jurídica de políticas públicas que vai além da visão administrativa, entendendo-as como programas de ação governamental que articulam processos juridicamente regulados. O texto é central para compreender como o direito opera como instrumento de implementação de políticas, conectando normatividade e ação estatal concreta.",
+        "pontosChave": [
+          "Definição jurídica de política pública como programa de ação governamental",
+          "Crítica à visão puramente administrativa das políticas públicas",
+          "Articulação entre direito, governo e processos decisórios",
+          "Políticas públicas como categoria jurídica autônoma"
+        ],
+        "conexoes": [
+          "Complementa Bourdieu ao mostrar como o campo jurídico opera concretamente via políticas públicas",
+          "Base teórica para entender a governança ambiental discutida na Aula 13 (Magalhães de Moura)",
+          "Conecta-se com a discussão sobre Estado desenvolvimentista (Aula 6) e os limites institucionais",
+          "Dialoga com Sen (Aula 9) sobre o papel das instituições na promoção de liberdades"
+        ]
+      },
+      {
+        "id": "t2-2",
+        "autor": "BOURDIEU, Pierre",
+        "titulo": "A força do direito",
+        "resumo": "Bourdieu analisa o campo jurídico como espaço de lutas pelo poder de dizer o direito, onde agentes disputam o monopólio da interpretação legítima. O direito é visto não como sistema neutro, mas como produto de relações de força simbólica, revelando como a forma jurídica naturaliza desigualdades.",
+        "pontosChave": [
+          "Campo jurídico como espaço de disputas pelo monopólio da interpretação",
+          "Poder simbólico do direito e sua capacidade de naturalizar hierarquias",
+          "Crítica à autonomia absoluta do campo jurídico",
+          "Relação entre capital jurídico, capital social e capital econômico"
+        ],
+        "conexoes": [
+          "Fundamenta a crítica à dogmática jurídica presente em todo o curso",
+          "Conecta-se com Latour (Aula 4) na crítica às separações modernas entre campos",
+          "Dialoga com Foucault (Aula 5) sobre poder e instituições",
+          "Base para entender como o direito ambiental opera como campo de disputas (Aula 13)"
+        ]
+      },
+      {
+        "id": "t2-3",
+        "autor": "LEUZINGER, Marcia Dieguez; VARELLA, Marcelo Dias",
+        "titulo": "O meio ambiente na Constituição Federal e na legislação infraconstitucional: avanços ou retrocessos (1988 a 2014)?",
+        "resumo": "Análise da evolução normativa ambiental brasileira pós-Constituição de 1988, examinando se as mudanças legislativas representaram avanços na proteção ambiental ou retrocessos. O texto mapeia tensões entre desenvolvimento econômico e proteção ambiental no campo legislativo.",
+        "pontosChave": [
+          "Evolução da legislação ambiental brasileira de 1988 a 2014",
+          "Princípio da vedação do retrocesso ambiental",
+          "Tensão entre desenvolvimento econômico e proteção ambiental na legislação",
+          "Análise crítica das reformas no Código Florestal e outras normas"
+        ],
+        "conexoes": [
+          "Conecta-se com a história ambiental brasileira (Aula 12, Dean e Franco/Drummond)",
+          "Dialoga com a governança ambiental (Aula 13) sobre limites institucionais",
+          "Ilustra concretamente as tensões do campo jurídico (Bourdieu) no contexto ambiental",
+          "Relaciona-se com a Teoria da Luz Verde (Aulas 7-8) sobre exploração legitimada pelo direito"
+        ]
+      },
+      {
+        "id": "t2-4",
+        "autor": "LEUZINGER, Marcia Dieguez; TELES DA SILVA, Solange",
+        "titulo": "O princípio da participação e a criação e gestão das áreas protegidas na perspectiva do direito ambiental global",
+        "resumo": "Examina o princípio da participação popular na criação e gestão de áreas protegidas, articulando direito ambiental nacional e global. Discute como a participação pode democratizar decisões ambientais e os desafios práticos dessa implementação.",
+        "pontosChave": [
+          "Princípio da participação no direito ambiental",
+          "Criação e gestão de áreas protegidas com participação popular",
+          "Perspectiva do direito ambiental global",
+          "Tensão entre tecnocracia e democracia nas decisões ambientais"
+        ],
+        "conexoes": [
+          "Conecta-se com Acselrad (Aula 3) sobre justiça ambiental e participação",
+          "Dialoga com Foucault (Aula 5) sobre governamentalidade e gestão de populações",
+          "Relaciona-se com Latour (Aula 4) sobre participação nas controvérsias sociotécnicas",
+          "Base para discussão sobre decolonialidade e alternativas (Aulas 14-15)"
+        ]
+      }
+    ],
+    "data": "02/03/2026"
+  },
+  {
+    "id": 3,
+    "titulo": "Direito, políticas públicas e o campo jurídico (2)",
+    "subtitulo": "Continuação da análise do campo jurídico com foco em justiça ambiental, direitos humanos e meio ambiente.",
+    "textos": [
+      {
+        "id": "t3-1",
+        "autor": "MASTRODI, Josué; FRANZOLIN, Cláudio José; VADELL, Lorenzo Bujosa",
+        "titulo": "Environmental Law as a Human Right: on the emptying of future generations' human rights due to the current climate impacts",
+        "resumo": "Analisa o direito ambiental como direito humano fundamental, argumentando que os impactos climáticos atuais esvaziam os direitos das gerações futuras. Propõe uma leitura intergeracional dos direitos humanos ambientais.",
+        "pontosChave": [
+          "Direito ambiental como direito humano fundamental",
+          "Justiça intergeracional e mudanças climáticas",
+          "Esvaziamento dos direitos das futuras gerações",
+          "Relação entre direitos humanos e proteção ambiental"
+        ],
+        "conexoes": [
+          "Conecta-se com Sen (Aula 9) sobre desenvolvimento como liberdade e capacidades",
+          "Dialoga com Beck (Aula 6) sobre sociedade de risco e distribuição de riscos",
+          "Relaciona-se com Chakrabarty (Aulas 14-15) sobre clima e Antropoceno",
+          "Complementa Georgescu-Roegen (Aulas 7-8) sobre entropia e irreversibilidade"
+        ]
+      },
+      {
+        "id": "t3-2",
+        "autor": "LEUZINGER, Marcia Dieguez",
+        "titulo": "Natureza e cultura: direito ao meio ambiente equilibrado e direitos culturais diante da criação de unidades de conservação de proteção integral e domínio público habitadas por populações tradicionais",
+        "resumo": "Examina o conflito entre proteção integral da natureza e direitos culturais de populações tradicionais em unidades de conservação. Problematiza a dicotomia natureza/cultura no direito ambiental brasileiro.",
+        "pontosChave": [
+          "Conflito entre proteção ambiental integral e direitos culturais",
+          "Populações tradicionais em unidades de conservação",
+          "Crítica à dicotomia natureza/cultura no direito",
+          "Necessidade de conciliação entre conservação e direitos humanos"
+        ],
+        "conexoes": [
+          "Conecta-se com Latour (Aula 4) sobre a crítica à separação natureza/cultura",
+          "Dialoga com Bispo dos Santos (Aulas 14-15) sobre saberes tradicionais",
+          "Relaciona-se com a história ambiental (Aula 12) e criação de áreas protegidas",
+          "Complementa Acosta (Aulas 14-15) sobre bem viver e alternativas ao desenvolvimento"
+        ]
+      },
+      {
+        "id": "t3-3",
+        "autor": "ACSELRAD, Henri",
+        "titulo": "O que é justiça ambiental?",
+        "resumo": "Introduz o conceito de justiça ambiental como a distribuição equitativa dos ônus e benefícios ambientais. Analisa como populações vulneráveis são desproporcionalmente afetadas pela degradação ambiental, articulando desigualdade social e ambiental.",
+        "pontosChave": [
+          "Conceito de justiça ambiental e sua origem nos EUA",
+          "Distribuição desigual dos riscos ambientais",
+          "Racismo ambiental e desigualdade socioambiental",
+          "Movimentos sociais por justiça ambiental"
+        ],
+        "conexoes": [
+          "Base teórica para toda a discussão de risco ambiental do curso",
+          "Conecta-se com Beck (Aula 6) sobre sociedade de risco",
+          "Dialoga com a teoria da dependência (Aula 11) sobre desigualdades estruturais",
+          "Fundamenta as discussões sobre decolonialidade e neoextrativismo (Aulas 14-15)"
+        ]
+      },
+      {
+        "id": "t3-4",
+        "autor": "ACSELRAD, Henri",
+        "titulo": "Justiça ambiental e construção social do risco",
+        "resumo": "Aprofunda a análise da justiça ambiental mostrando como o risco ambiental é socialmente construído e distribuído de forma desigual. Critica a naturalização dos riscos e sua despolitização pela lógica técnico-científica.",
+        "pontosChave": [
+          "Construção social do risco ambiental",
+          "Despolitização dos riscos pela tecnocracia",
+          "Distribuição desigual dos riscos entre classes sociais",
+          "Crítica à modernização ecológica como solução"
+        ],
+        "conexoes": [
+          "Complementa diretamente Beck (Aula 6) com perspectiva crítica da periferia",
+          "Conecta-se com Foucault (Aula 5) sobre biopolítica e gestão de populações",
+          "Dialoga com Marini e Cardoso/Faletto (Aula 11) sobre dependência e desigualdade",
+          "Relaciona-se com Svampa (Aulas 14-15) sobre neoextrativismo"
+        ]
+      },
+      {
+        "id": "t3-5",
+        "autor": "ACSELRAD, Henri",
+        "titulo": "Ambientalização das lutas sociais - o caso do movimento por justiça ambiental",
+        "resumo": "Analisa como movimentos sociais incorporam a dimensão ambiental em suas lutas, fenômeno que denomina 'ambientalização'. Mostra como questões de moradia, saúde e trabalho se articulam com demandas ambientais.",
+        "pontosChave": [
+          "Conceito de ambientalização das lutas sociais",
+          "Articulação entre movimentos sociais e questões ambientais",
+          "Superação da dicotomia entre questão social e questão ambiental",
+          "Experiências de movimentos por justiça ambiental no Brasil"
+        ],
+        "conexoes": [
+          "Conecta-se com Esping-Andersen e Castel (Aula 9) sobre questão social",
+          "Dialoga com Gudynas e Svampa (Aulas 14-15) sobre conflitos e extractivismo",
+          "Relaciona-se com a governança ambiental (Aula 13) e participação social",
+          "Complementa Bourdieu (Aula 2) sobre disputas em campos sociais"
+        ]
+      }
+    ],
+    "data": "09/03/2026"
+  },
+  {
+    "id": 4,
+    "titulo": "Política, técnica e direito: desmontando as separações modernas",
+    "subtitulo": "Crítica à separação entre ciência, técnica, política e direito. Redes sociotécnicas e controvérsias.",
+    "textos": [
+      {
+        "id": "t4-1",
+        "autor": "LATOUR, Bruno",
+        "titulo": "A esperança de Pandora",
+        "resumo": "Latour questiona a separação moderna entre fatos e valores, ciência e política. Propõe que a produção de conhecimento é um processo coletivo envolvendo humanos e não-humanos em redes sociotécnicas.",
+        "pontosChave": [
+          "Crítica à separação entre fatos (ciência) e valores (política)",
+          "Conceito de redes sociotécnicas",
+          "A ciência como prática coletiva e situada",
+          "Superação do dualismo natureza/sociedade"
+        ],
+        "conexoes": [
+          "Complementa e radicaliza Bourdieu (Aula 2) na crítica aos campos autônomos",
+          "Dialoga com Foucault (Aula 5) sobre poder e saber",
+          "Fundamenta a crítica à economia neoclássica (Aulas 7-8, Georgescu-Roegen)",
+          "Conecta-se com Leuzinger (Aula 3) sobre a dicotomia natureza/cultura"
+        ]
+      },
+      {
+        "id": "t4-2",
+        "autor": "LATOUR, Bruno",
+        "titulo": "Políticas da natureza: como fazer ciência na democracia",
+        "resumo": "Propõe uma ecologia política que supere a separação entre natureza e política. Defende que questões ambientais exigem novos arranjos democráticos que incluam não-humanos nas deliberações coletivas.",
+        "pontosChave": [
+          "Ecologia política além da separação natureza/sociedade",
+          "Parlamento das coisas: inclusão de não-humanos",
+          "Crítica à expertise científica como árbitro neutro",
+          "Democracia técnica e controvérsias ambientais"
+        ],
+        "conexoes": [
+          "Conecta-se com Beck (Aula 6) sobre risco e modernidade reflexiva",
+          "Dialoga com Acselrad (Aula 3) sobre despolitização dos riscos",
+          "Relaciona-se com Acosta (Aulas 14-15) sobre outras formas de relação com a natureza",
+          "Complementa Bucci (Aula 2) sobre processos decisórios e políticas públicas"
+        ]
+      }
+    ],
+    "data": "16/03/2026"
+  },
+  {
+    "id": 5,
+    "titulo": "Estado, governamentalidade e segurança",
+    "subtitulo": "Estado moderno, biopolítica, governamentalidade e gestão das populações.",
+    "textos": [
+      {
+        "id": "t5-1",
+        "autor": "FOUCAULT, Michel",
+        "titulo": "Segurança, território, população",
+        "resumo": "Foucault analisa a emergência da governamentalidade como racionalidade de governo que articula segurança, território e população. Mostra como o Estado moderno governa através de dispositivos de segurança que normalizam condutas.",
+        "pontosChave": [
+          "Conceito de governamentalidade",
+          "Dispositivos de segurança vs. disciplina vs. soberania",
+          "Gestão de populações como objeto de governo",
+          "Emergência da economia política como saber de governo"
+        ],
+        "conexoes": [
+          "Fundamenta a análise do Estado desenvolvimentista (Aula 6)",
+          "Conecta-se com Bourdieu (Aula 2) sobre poder e instituições",
+          "Dialoga com Beck (Aula 6) sobre gestão do risco",
+          "Base para entender governança ambiental (Aula 13)"
+        ]
+      },
+      {
+        "id": "t5-2",
+        "autor": "FOUCAULT, Michel",
+        "titulo": "Em defesa da sociedade",
+        "resumo": "Analisa o biopoder como forma de poder sobre a vida das populações, articulando racismo de Estado e gestão biopolítica. Mostra como o poder moderno opera não mais sobre o corpo individual, mas sobre a vida da espécie.",
+        "pontosChave": [
+          "Biopoder e biopolítica",
+          "Racismo de Estado como mecanismo biopolítico",
+          "Fazer viver e deixar morrer como lógica do poder moderno",
+          "Relação entre guerra, raça e poder estatal"
+        ],
+        "conexoes": [
+          "Conecta-se com Acselrad (Aula 3) sobre racismo ambiental",
+          "Dialoga com a teoria da dependência (Aula 11) sobre exclusão estrutural",
+          "Relaciona-se com Dussel (Aulas 14-15) sobre colonialidade do poder",
+          "Complementa a análise do welfare state (Aula 9) e seus limites"
+        ]
+      }
+    ],
+    "data": "23/03/2026"
+  },
+  {
+    "id": 6,
+    "titulo": "Estado Desenvolvimentista e Sociedade de Risco",
+    "subtitulo": "Produção social do risco, modernidade reflexiva e limites da proteção social.",
+    "textos": [
+      {
+        "id": "t6-1",
+        "autor": "BIELSCHOWSKY, Ricardo",
+        "titulo": "Pensamento Econômico Brasileiro: O Ciclo Ideológico do Desenvolvimentismo",
+        "resumo": "Mapeia o ciclo ideológico do desenvolvimentismo brasileiro, desde suas origens até seu esgotamento. Analisa como diferentes correntes econômicas disputaram o sentido do desenvolvimento nacional.",
+        "pontosChave": [
+          "Ciclo ideológico do desenvolvimentismo no Brasil",
+          "Correntes do pensamento econômico brasileiro",
+          "Industrialização como projeto nacional",
+          "Tensões entre nacionalismo e liberalismo econômico"
+        ],
+        "conexoes": [
+          "Base para entender Furtado (Aula 10) sobre o mito do desenvolvimento",
+          "Conecta-se com Cardoso/Faletto e Marini (Aula 11) sobre dependência",
+          "Dialoga com a Teoria da Luz Verde (Aulas 7-8) sobre legitimação do crescimento",
+          "Relaciona-se com a história ambiental (Aula 12) e seus custos ecológicos"
+        ]
+      },
+      {
+        "id": "t6-2",
+        "autor": "BECK, Ulrich",
+        "titulo": "Sociedade de risco",
+        "resumo": "Beck argumenta que a modernização produz riscos globais (nucleares, químicos, ecológicos) que escapam às instituições de controle. A sociedade de risco é marcada pela reflexividade: a modernidade confronta seus próprios efeitos destrutivos.",
+        "pontosChave": [
+          "Conceito de sociedade de risco",
+          "Modernização reflexiva",
+          "Riscos manufaturados vs. riscos naturais",
+          "Irresponsabilidade organizada e distribuição dos riscos"
+        ],
+        "conexoes": [
+          "Complementado criticamente por Acselrad (Aula 3) com perspectiva da desigualdade",
+          "Conecta-se com Latour (Aula 4) sobre controvérsias sociotécnicas",
+          "Dialoga com Georgescu-Roegen (Aulas 7-8) sobre irreversibilidade",
+          "Relaciona-se com Chakrabarty (Aulas 14-15) sobre crise climática e Antropoceno"
+        ]
+      },
+      {
+        "id": "t6-3",
+        "autor": "DERANI, Cristiane",
+        "titulo": "Direito ambiental econômico",
+        "resumo": "Analisa a relação entre direito ambiental e economia, propondo uma abordagem que supere a dicotomia entre desenvolvimento econômico e proteção ambiental. Examina instrumentos econômicos de política ambiental.",
+        "pontosChave": [
+          "Relação entre direito ambiental e economia",
+          "Instrumentos econômicos de política ambiental",
+          "Crítica à externalização dos custos ambientais",
+          "Princípio do poluidor-pagador e seus limites"
+        ],
+        "conexoes": [
+          "Conecta-se com Georgescu-Roegen (Aulas 7-8) sobre limites da economia",
+          "Dialoga com Daly (Aulas 7-8) sobre economia de estado estacionário",
+          "Relaciona-se com Bucci (Aula 2) sobre políticas públicas como instrumento jurídico",
+          "Complementa a governança ambiental (Aula 13)"
+        ]
+      }
+    ],
+    "data": "30/03/2026"
+  },
+  {
+    "id": 7,
+    "titulo": "Teoria da Luz Verde, Economia, entropia e limites biofísicos (parte 1)",
+    "subtitulo": "Progresso, ciência, Estado e legitimação institucional da exploração da natureza. Crítica à economia ambiental e à sustentabilidade fraca.",
+    "textos": [
+      {
+        "id": "t7-1",
+        "autor": "WORSTER, Donald",
+        "titulo": "Shrinking the Earth: the rise and decline of American abundance",
+        "resumo": "Worster narra como a abundância natural americana foi sistematicamente consumida pelo projeto de crescimento ilimitado. A história ambiental revela o mito da inesgotabilidade e os limites biofísicos do modelo de desenvolvimento.",
+        "pontosChave": [
+          "Mito da abundância natural americana",
+          "Declínio dos recursos naturais e limites biofísicos",
+          "Relação entre expansão territorial e exploração ambiental",
+          "Crítica ao excepcionalismo americano em termos ambientais"
+        ],
+        "conexoes": [
+          "Paralelo com Dean (Aula 12) sobre devastação da Mata Atlântica",
+          "Conecta-se com Furtado (Aula 10) sobre mito do desenvolvimento",
+          "Dialoga com Georgescu-Roegen (Aula 7) sobre limites entrópicos",
+          "Fundamenta a Teoria da Luz Verde como legitimação da exploração"
+        ]
+      },
+      {
+        "id": "t7-2",
+        "autor": "GEORGESCU-ROEGEN, Nicholas",
+        "titulo": "The Entropy Law and the Economic Process",
+        "resumo": "Obra seminal que aplica a segunda lei da termodinâmica à economia, demonstrando que todo processo econômico é irreversível e degrada energia e matéria. Fundamenta a impossibilidade física do crescimento econômico perpétuo.",
+        "pontosChave": [
+          "Lei da entropia aplicada à economia",
+          "Irreversibilidade dos processos econômicos",
+          "Impossibilidade do crescimento perpétuo",
+          "Crítica à economia neoclássica como sistema fechado"
+        ],
+        "conexoes": [
+          "Base científica para Daly (Aula 7-8) sobre economia estacionária",
+          "Fundamenta a crítica ao desenvolvimentismo (Aulas 6, 10, 11)",
+          "Conecta-se com Beck (Aula 6) sobre riscos da modernização",
+          "Dialoga com Chakrabarty (Aulas 14-15) sobre limites planetários"
+        ]
+      },
+      {
+        "id": "t7-3",
+        "autor": "DALY, Herman E.",
+        "titulo": "Una economía de estado estacionario",
+        "resumo": "Daly propõe a economia de estado estacionário como alternativa ao crescimento, distinguindo crescimento (aumento quantitativo) de desenvolvimento (melhoria qualitativa). Argumenta que estancamento e estado estacionário são coisas distintas.",
+        "pontosChave": [
+          "Distinção entre crescimento e desenvolvimento",
+          "Economia de estado estacionário como alternativa viável",
+          "Limites biofísicos ao crescimento econômico",
+          "Crítica ao PIB como medida de progresso"
+        ],
+        "conexoes": [
+          "Desdobramento direto de Georgescu-Roegen sobre entropia",
+          "Conecta-se com Sen (Aula 9) na distinção entre crescimento e desenvolvimento",
+          "Dialoga com Gudynas (Aulas 14-15) sobre alternativas ao desenvolvimento",
+          "Complementa Furtado (Aula 10) na crítica ao mito do desenvolvimento"
+        ]
+      }
+    ],
+    "data": "06/04 e 13/04/2026"
+  },
+  {
+    "id": 9,
+    "titulo": "Desenvolvimento como liberdade e Estado social",
+    "subtitulo": "Capacidades, liberdade e políticas públicas. Tensões com os limites ambientais.",
+    "textos": [
+      {
+        "id": "t9-1",
+        "autor": "SEN, Amartya",
+        "titulo": "Desenvolvimento como liberdade",
+        "resumo": "Sen redefine desenvolvimento como expansão das liberdades substantivas das pessoas, não como crescimento do PIB. Propõe a abordagem das capacidades, onde políticas públicas devem ampliar as escolhas reais dos indivíduos.",
+        "pontosChave": [
+          "Desenvolvimento como expansão de liberdades substantivas",
+          "Abordagem das capacidades (capabilities approach)",
+          "Crítica ao PIB como medida de desenvolvimento",
+          "Papel das instituições e políticas públicas"
+        ],
+        "conexoes": [
+          "Complementa e tensiona Daly (Aulas 7-8) sobre crescimento vs. desenvolvimento",
+          "Conecta-se com Esping-Andersen sobre welfare state e políticas sociais",
+          "Dialoga com Furtado (Aula 10) sobre subdesenvolvimento como privação",
+          "Relaciona-se com Acosta (Aulas 14-15) sobre bem viver como alternativa"
+        ]
+      },
+      {
+        "id": "t9-2",
+        "autor": "ESPING-ANDERSEN, Gøsta",
+        "titulo": "Os três mundos do welfare state",
+        "resumo": "Tipologia dos regimes de welfare state (liberal, conservador, social-democrata), analisando como diferentes arranjos institucionais produzem padrões distintos de desmercantilização e estratificação social.",
+        "pontosChave": [
+          "Três regimes de welfare state",
+          "Conceito de desmercantilização",
+          "Relação entre Estado, mercado e família",
+          "Estratificação social produzida por políticas sociais"
+        ],
+        "conexoes": [
+          "Conecta-se com Foucault (Aula 5) sobre governamentalidade e gestão de populações",
+          "Dialoga com Castel sobre questão social e proteção",
+          "Relaciona-se com Bielschowsky (Aula 6) sobre Estado desenvolvimentista",
+          "Tensiona com limites ambientais (Aulas 7-8) do modelo de crescimento"
+        ]
+      },
+      {
+        "id": "t9-3",
+        "autor": "CASTEL, Robert",
+        "titulo": "As metamorfoses da questão social",
+        "resumo": "Castel traça a história da questão social desde a sociedade salarial até sua crise contemporânea. Analisa os processos de desfiliação e precarização que ameaçam a coesão social.",
+        "pontosChave": [
+          "Conceito de questão social e suas metamorfoses",
+          "Sociedade salarial e sua crise",
+          "Desfiliação social e precarização",
+          "Relação entre trabalho, proteção social e integração"
+        ],
+        "conexoes": [
+          "Conecta-se com Acselrad (Aula 3) sobre ambientalização das lutas sociais",
+          "Dialoga com Cardoso/Faletto (Aula 11) sobre dependência e desigualdade",
+          "Relaciona-se com Svampa (Aulas 14-15) sobre neoextrativismo e precarização",
+          "Complementa Esping-Andersen sobre os limites do welfare state"
+        ]
+      }
+    ],
+    "data": "20/04/2026"
+  },
+  {
+    "id": 10,
+    "titulo": "O mito do desenvolvimento",
+    "subtitulo": "Desenvolvimento como promessa ideológica e estrutura do subdesenvolvimento.",
+    "textos": [
+      {
+        "id": "t10-1",
+        "autor": "FURTADO, Celso",
+        "titulo": "Formação econômica do Brasil",
+        "resumo": "Obra clássica que analisa a formação econômica brasileira desde o período colonial, mostrando como ciclos exportadores (açúcar, ouro, café) configuraram uma economia dependente e desigual.",
+        "pontosChave": [
+          "Formação econômica brasileira e ciclos exportadores",
+          "Subdesenvolvimento como processo histórico-estrutural",
+          "Relação centro-periferia na economia mundial",
+          "Papel do Estado na industrialização"
+        ],
+        "conexoes": [
+          "Base histórica para a teoria da dependência (Aula 11)",
+          "Conecta-se com Dean (Aula 12) sobre custos ambientais da colonização",
+          "Dialoga com Bielschowsky (Aula 6) sobre pensamento desenvolvimentista",
+          "Relaciona-se com Gudynas (Aulas 14-15) sobre extractivismo"
+        ]
+      },
+      {
+        "id": "t10-2",
+        "autor": "FURTADO, Celso",
+        "titulo": "O mito do desenvolvimento econômico",
+        "resumo": "Furtado desmonta o mito de que todos os países poderiam alcançar o padrão de consumo dos países centrais. O desenvolvimento para poucos depende do subdesenvolvimento de muitos, e a universalização do modelo seria ecologicamente impossível.",
+        "pontosChave": [
+          "Desenvolvimento como mito ideológico",
+          "Impossibilidade ecológica da universalização do consumo",
+          "Subdesenvolvimento como condição estrutural, não etapa",
+          "Relação entre desenvolvimento, dependência e meio ambiente"
+        ],
+        "conexoes": [
+          "Antecipa Georgescu-Roegen e Daly (Aulas 7-8) sobre limites biofísicos",
+          "Fundamenta a Teoria da Luz Verde sobre o mito do progresso infinito",
+          "Conecta-se com Marini (Aula 11) sobre superexploração",
+          "Dialoga com Acosta (Aulas 14-15) sobre alternativas ao desenvolvimento"
+        ]
+      },
+      {
+        "id": "t10-3",
+        "autor": "ARRIGHI, Giovanni",
+        "titulo": "O longo século XX",
+        "resumo": "Análise dos ciclos sistêmicos de acumulação capitalista, mostrando como hegemonia, finanças e poder estatal se articulam em longos ciclos históricos. Revela a natureza cíclica e expansiva do capitalismo mundial.",
+        "pontosChave": [
+          "Ciclos sistêmicos de acumulação",
+          "Relação entre hegemonia, finanças e poder estatal",
+          "Expansão capitalista e seus limites",
+          "Financeirização como sinal de declínio hegemônico"
+        ],
+        "conexoes": [
+          "Conecta-se com Cardoso/Faletto (Aula 11) sobre sistema-mundo",
+          "Dialoga com Furtado sobre centro-periferia",
+          "Relaciona-se com Worster (Aulas 7-8) sobre abundância e declínio",
+          "Complementa a análise do neoextrativismo (Aulas 14-15)"
+        ]
+      },
+      {
+        "id": "t10-4",
+        "autor": "CAVALCANTI, Clovis",
+        "titulo": "Meio ambiente, Celso Furtado e o desenvolvimento como falácia",
+        "resumo": "Releitura ecológica de Furtado, reforçando que o desenvolvimento econômico ilimitado é uma falácia diante dos limites ambientais. Articula economia ecológica e pensamento furtadiano.",
+        "pontosChave": [
+          "Releitura ecológica do pensamento de Furtado",
+          "Desenvolvimento como falácia ambiental",
+          "Articulação entre economia ecológica e pensamento latino-americano",
+          "Limites ambientais como limites ao desenvolvimento"
+        ],
+        "conexoes": [
+          "Ponte direta entre Furtado e a economia ecológica (Aulas 7-8)",
+          "Conecta-se com Georgescu-Roegen sobre entropia",
+          "Dialoga com Gudynas (Aulas 14-15) sobre pós-extrativismo",
+          "Relaciona-se com Derani (Aula 6) sobre direito ambiental econômico"
+        ]
+      }
+    ],
+    "data": "27/04/2026"
+  },
+  {
+    "id": 11,
+    "titulo": "Desenvolvimento no Brasil e teoria da dependência",
+    "subtitulo": "Estado, políticas públicas, direito e reprodução da dependência.",
+    "textos": [
+      {
+        "id": "t11-1",
+        "autor": "CARDOSO, Fernando Henrique; FALETTO, Enzo",
+        "titulo": "Dependência e desenvolvimento na América Latina",
+        "resumo": "Análise das situações concretas de dependência na América Latina, articulando fatores internos e externos. Propõe uma sociologia política do desenvolvimento que supere o economicismo.",
+        "pontosChave": [
+          "Conceito de dependência como situação concreta",
+          "Articulação entre fatores internos e externos",
+          "Sociologia política do desenvolvimento",
+          "Diferentes formas de dependência na América Latina"
+        ],
+        "conexoes": [
+          "Complementa Furtado (Aula 10) com análise sociopolítica",
+          "Dialoga com Marini sobre superexploração do trabalho",
+          "Conecta-se com Arrighi (Aula 10) sobre sistema-mundo",
+          "Relaciona-se com Gudynas e Svampa (Aulas 14-15) sobre neoextrativismo"
+        ]
+      },
+      {
+        "id": "t11-2",
+        "autor": "MARINI, Ruy Mauro",
+        "titulo": "Dialética da dependência",
+        "resumo": "Marini desenvolve o conceito de superexploração do trabalho como mecanismo central da dependência latino-americana. A periferia transfere valor ao centro através de trocas desiguais, compensadas internamente pela superexploração.",
+        "pontosChave": [
+          "Superexploração do trabalho como categoria central",
+          "Troca desigual entre centro e periferia",
+          "Ciclo do capital dependente",
+          "Subimperialismo como desdobramento da dependência"
+        ],
+        "conexoes": [
+          "Radicaliza a análise de Cardoso/Faletto sobre dependência",
+          "Conecta-se com Furtado (Aula 10) sobre subdesenvolvimento estrutural",
+          "Dialoga com Acselrad (Aula 3) sobre distribuição desigual de riscos",
+          "Relaciona-se com Svampa e Gudynas (Aulas 14-15) sobre extractivismo"
+        ]
+      }
+    ],
+    "data": "04/05/2026"
+  },
+  {
+    "id": 12,
+    "titulo": "História ambiental brasileira",
+    "subtitulo": "Natureza, economia e formação do Estado brasileiro.",
+    "textos": [
+      {
+        "id": "t12-1",
+        "autor": "FRANCO, José Luiz de Andrade; DRUMMOND, José Augusto",
+        "titulo": "Brazilian Mind (II): The First Brazilian Conference on Nature Protection / Wilderness and the Brazilian Mind (I)",
+        "resumo": "Analisam a emergência da consciência ambiental no Brasil entre as décadas de 1920 e 1940, examinando a Primeira Conferência Brasileira de Proteção à Natureza e as primeiras políticas de conservação.",
+        "pontosChave": [
+          "Emergência da consciência ambiental no Brasil (1920-1940)",
+          "Primeira Conferência Brasileira de Proteção à Natureza",
+          "Relação entre nacionalismo e conservação",
+          "Primeiras políticas de áreas protegidas"
+        ],
+        "conexoes": [
+          "Conecta-se com Leuzinger (Aula 2 e 3) sobre áreas protegidas",
+          "Dialoga com Dean sobre devastação histórica",
+          "Relaciona-se com Worster (Aulas 7-8) - paralelo Brasil/EUA",
+          "Complementa a governança ambiental (Aula 13)"
+        ]
+      },
+      {
+        "id": "t12-2",
+        "autor": "DEAN, Warren",
+        "titulo": "A ferro e fogo: a história e a devastação da Mata Atlântica brasileira",
+        "resumo": "Obra fundamental da história ambiental brasileira que narra a destruição sistemática da Mata Atlântica desde a colonização portuguesa. Revela como ciclos econômicos foram simultaneamente ciclos de devastação ecológica.",
+        "pontosChave": [
+          "Devastação da Mata Atlântica como processo histórico",
+          "Ciclos econômicos como ciclos de destruição ambiental",
+          "Relação entre colonização, economia e ecologia",
+          "Irreversibilidade da perda de biodiversidade"
+        ],
+        "conexoes": [
+          "Ilustra concretamente Furtado (Aula 10) sobre custos do desenvolvimento",
+          "Conecta-se com Worster (Aulas 7-8) sobre declínio da abundância",
+          "Dialoga com Georgescu-Roegen sobre irreversibilidade entrópica",
+          "Fundamenta as discussões sobre justiça ambiental (Aula 3) e decolonialidade (Aulas 14-15)"
+        ]
+      }
+    ],
+    "data": "11/05/2026"
+  },
+  {
+    "id": 13,
+    "titulo": "Direito ambiental e governança ambiental no Brasil",
+    "subtitulo": "Direito ambiental como política pública. Limites institucionais e contradições.",
+    "textos": [
+      {
+        "id": "t13-1",
+        "autor": "MAGALHÃES DE MOURA, Adriana Maria (org.)",
+        "titulo": "Governança ambiental no Brasil: instituições, atores e políticas públicas",
+        "resumo": "Análise abrangente da governança ambiental brasileira, mapeando instituições, atores e processos decisórios. Examina os limites e contradições das políticas públicas ambientais no contexto desenvolvimentista.",
+        "pontosChave": [
+          "Mapeamento institucional da governança ambiental no Brasil",
+          "Atores e processos decisórios em políticas ambientais",
+          "Contradições entre desenvolvimentismo e proteção ambiental",
+          "Limites da capacidade institucional ambiental"
+        ],
+        "conexoes": [
+          "Aplica concretamente Bucci (Aula 2) sobre políticas públicas",
+          "Conecta-se com Foucault (Aula 5) sobre governamentalidade",
+          "Dialoga com Leuzinger (Aula 2) sobre evolução legislativa",
+          "Relaciona-se com Bielschowsky (Aula 6) sobre Estado desenvolvimentista"
+        ]
+      },
+      {
+        "id": "t13-2",
+        "autor": "DRUMMOND, José Augusto; BARBOSA, Livia Neves de Holanda",
+        "titulo": "Os direitos da natureza em uma sociedade relacional: reflexões sobre uma nova ética ambiental",
+        "resumo": "Discute a possibilidade de reconhecer direitos à natureza numa perspectiva relacional, superando o antropocentrismo jurídico. Propõe uma ética ambiental que reconheça o valor intrínseco dos ecossistemas.",
+        "pontosChave": [
+          "Direitos da natureza e superação do antropocentrismo",
+          "Ética ambiental relacional",
+          "Valor intrínseco dos ecossistemas",
+          "Limites do direito ambiental antropocêntrico"
+        ],
+        "conexoes": [
+          "Conecta-se com Latour (Aula 4) sobre não-humanos como actantes",
+          "Dialoga com Acosta (Aulas 14-15) sobre bem viver e direitos da natureza",
+          "Relaciona-se com Bispo dos Santos (Aulas 14-15) sobre outras cosmologias",
+          "Complementa Leuzinger (Aula 3) sobre natureza e cultura"
+        ]
+      }
+    ],
+    "data": "18/05/2026"
+  },
+  {
+    "id": 14,
+    "titulo": "Decolonialidade, alternativas ao desenvolvimento, justiça ambiental, clima e Antropoceno",
+    "subtitulo": "Distribuição social dos riscos ambientais e crise climática global.",
+    "textos": [
+      {
+        "id": "t14-1",
+        "autor": "ACOSTA, Alberto",
+        "titulo": "O bem viver: uma oportunidade para imaginar outros mundos",
+        "resumo": "Propõe o Bem Viver (Buen Vivir) como alternativa ao desenvolvimento, baseado em cosmovisões indígenas andinas. Defende uma relação harmônica com a natureza e a superação da lógica do crescimento.",
+        "pontosChave": [
+          "Bem Viver como alternativa ao desenvolvimento",
+          "Cosmovisões indígenas e relação com a natureza",
+          "Crítica ao crescimento econômico como fim",
+          "Direitos da natureza na Constituição do Equador"
+        ],
+        "conexoes": [
+          "Alternativa concreta ao mito do desenvolvimento (Furtado, Aula 10)",
+          "Conecta-se com Daly (Aulas 7-8) sobre economia estacionária",
+          "Dialoga com Drummond/Barbosa (Aula 13) sobre direitos da natureza",
+          "Complementa Bispo dos Santos sobre saberes ancestrais"
+        ]
+      },
+      {
+        "id": "t14-2",
+        "autor": "BISPO DOS SANTOS, Antônio",
+        "titulo": "A terra dá, a terra quer",
+        "resumo": "Pensamento quilombola sobre a relação com a terra, propondo uma biointeração que supera a lógica extrativista. A terra não é recurso, mas sujeito de relação, com vontade e agência próprias.",
+        "pontosChave": [
+          "Biointeração vs. lógica extrativista",
+          "Terra como sujeito, não como recurso",
+          "Saberes quilombolas e contra-colonização",
+          "Confluência vs. transfluência entre cosmologias"
+        ],
+        "conexoes": [
+          "Conecta-se com Leuzinger (Aula 3) sobre populações tradicionais",
+          "Dialoga com Latour (Aula 4) sobre agência dos não-humanos",
+          "Relaciona-se com Acosta sobre bem viver",
+          "Complementa Dussel sobre filosofia da libertação"
+        ]
+      },
+      {
+        "id": "t14-3",
+        "autor": "CHAKRABARTY, Dipesh",
+        "titulo": "O clima da história / Bem viver, neoextrativismo e possibilidades contra-hegemônicas",
+        "resumo": "Chakrabarty argumenta que as mudanças climáticas colapsam a distinção entre história humana e história natural. O ser humano tornou-se força geológica, exigindo repensar categorias fundamentais das ciências humanas.",
+        "pontosChave": [
+          "Colapso da distinção história humana/história natural",
+          "Humanidade como força geológica (Antropoceno)",
+          "Crise das categorias das ciências humanas",
+          "Necessidade de pensar em escalas planetárias"
+        ],
+        "conexoes": [
+          "Radicaliza Beck (Aula 6) sobre riscos globais",
+          "Conecta-se com Georgescu-Roegen (Aulas 7-8) sobre irreversibilidade",
+          "Dialoga com Mastrodi (Aula 3) sobre gerações futuras",
+          "Complementa Worster (Aulas 7-8) sobre limites biofísicos"
+        ]
+      },
+      {
+        "id": "t14-4",
+        "autor": "DUSSEL, Enrique",
+        "titulo": "Filosofia de la Liberación",
+        "resumo": "Propõe uma filosofia desde a periferia, partindo da experiência dos oprimidos. Critica a totalidade europeia e propõe a alteridade como categoria central para pensar a libertação.",
+        "pontosChave": [
+          "Filosofia desde a periferia e os oprimidos",
+          "Crítica à totalidade eurocêntrica",
+          "Alteridade como categoria central",
+          "Colonialidade do saber e do poder"
+        ],
+        "conexoes": [
+          "Fundamenta filosoficamente a decolonialidade do curso",
+          "Conecta-se com Foucault (Aula 5) sobre poder, mas desde a periferia",
+          "Dialoga com Marini (Aula 11) sobre dependência como experiência",
+          "Complementa Acosta e Bispo dos Santos sobre alternativas"
+        ]
+      },
+      {
+        "id": "t14-5",
+        "autor": "GUDYNAS, Eduardo",
+        "titulo": "Conflictos y extractivismos / Modos de producción y modos de apropiación",
+        "resumo": "Gudynas analisa o extractivismo como modo de apropriação da natureza, diferente do modo de produção. Examina conflitos socioambientais gerados pela extração intensiva de recursos naturais na América Latina.",
+        "pontosChave": [
+          "Extractivismo como modo de apropriação",
+          "Conflitos socioambientais na América Latina",
+          "Distinção entre modos de produção e modos de apropriação",
+          "Pós-extrativismo como alternativa"
+        ],
+        "conexoes": [
+          "Conecta-se com Furtado (Aula 10) sobre ciclos exportadores",
+          "Dialoga com Marini (Aula 11) sobre troca desigual",
+          "Relaciona-se com Dean (Aula 12) sobre devastação como ciclo econômico",
+          "Complementa Svampa sobre fronteiras do neoextrativismo"
+        ]
+      },
+      {
+        "id": "t14-6",
+        "autor": "SVAMPA, Maristella",
+        "titulo": "As fronteiras do neoextrativismo",
+        "resumo": "Svampa analisa o neoextrativismo como modelo de desenvolvimento baseado na exploração intensiva de recursos naturais, mesmo sob governos progressistas. Examina as resistências sociais e as alternativas emergentes.",
+        "pontosChave": [
+          "Neoextrativismo em governos progressistas",
+          "Consenso das commodities e reprimarização",
+          "Resistências sociais ao neoextrativismo",
+          "Giro ecoterritorial dos movimentos sociais"
+        ],
+        "conexoes": [
+          "Conecta-se com Acselrad (Aula 3) sobre lutas socioambientais",
+          "Dialoga com Cardoso/Faletto e Marini (Aula 11) sobre dependência",
+          "Relaciona-se com Castel (Aula 9) sobre precarização",
+          "Complementa Gudynas sobre extractivismo e alternativas"
+        ]
+      }
+    ],
+    "data": "25/05 e 01/06/2026"
+  }
+]

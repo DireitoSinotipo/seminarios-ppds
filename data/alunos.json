@@ -1,0 +1,70 @@
+[
+  {
+    "id": "aluno-01-monica",
+    "nome": "Mônica Tardivo",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-02-aurora",
+    "nome": "Aurora Meirelles",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-03-fabiana",
+    "nome": "Fabiana Lustosa",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-04-genalice",
+    "nome": "Genalice (Alice)",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-05-rafael",
+    "nome": "Rafael Amorim",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-06-kamila",
+    "nome": "Kamila",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-07-david",
+    "nome": "David Brito",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-08-adriana",
+    "nome": "Adriana Abrão",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-09-lucas",
+    "nome": "Lucas",
+    "email": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-10-anaregina",
+    "nome": "Ana Regina",
+    "email": "",
+    "telefone": "",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "id": "aluno-11-alisson",
+    "nome": "Alisson Almeida",
+    "email": "",
+    "telefone": "(61) 98311-9367",
+    "criadoEm": "2026-03-09T10:00:00.000Z"
+  }
+]

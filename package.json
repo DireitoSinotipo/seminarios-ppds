@@ -1,0 +1,13 @@
+{
+  "name": "seminarios-ppds",
+  "version": "1.0.0",
+  "description": "Sistema de organização de seminários - Direito, Políticas Públicas e Desenvolvimento Sustentável",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
