@@ -99,9 +99,9 @@ app.get('/api/inscricoes', (req, res) => {
 });
 
 app.post('/api/inscricoes', (req, res) => {
-  const { alunoId, aulaId } = req.body;
-  if (!alunoId || !aulaId) {
-    return res.status(400).json({ erro: 'alunoId e aulaId são obrigatórios' });
+  const { alunoId, aulaId, textoId } = req.body;
+  if (!alunoId || !aulaId || !textoId) {
+    return res.status(400).json({ erro: 'alunoId, aulaId e textoId são obrigatórios' });
   }
 
   const alunos = readJSON('alunos.json');
@@ -112,8 +112,15 @@ app.post('/api/inscricoes', (req, res) => {
   if (!alunos.find(a => a.id === alunoId)) {
     return res.status(404).json({ erro: 'Aluno não encontrado' });
   }
-  if (!aulas.find(a => a.id === parseInt(aulaId))) {
+  const aula = aulas.find(a => a.id === parseInt(aulaId));
+  if (!aula) {
     return res.status(404).json({ erro: 'Aula não encontrada' });
+  }
+
+  // Validar texto pertence à aula
+  const texto = aula.textos.find(t => t.id === textoId);
+  if (!texto) {
+    return res.status(404).json({ erro: 'Texto não encontrado nesta aula' });
   }
 
   // Verificar se já está inscrito nesta aula
@@ -131,6 +138,7 @@ app.post('/api/inscricoes', (req, res) => {
     id: crypto.randomUUID(),
     alunoId,
     aulaId: parseInt(aulaId),
+    textoId,
     criadoEm: new Date().toISOString()
   };
 
@@ -156,13 +164,20 @@ app.get('/api/painel', (req, res) => {
   const inscricoes = readJSON('inscricoes.json');
 
   const painel = aulas.map(aula => {
-    const inscritosIds = inscricoes
-      .filter(i => i.aulaId === aula.id)
-      .map(i => ({ inscricaoId: i.id, alunoId: i.alunoId }));
+    const inscricoesAula = inscricoes.filter(i => i.aulaId === aula.id);
 
-    const inscritos = inscritosIds.map(({ inscricaoId, alunoId }) => {
-      const aluno = alunos.find(a => a.id === alunoId);
-      return aluno ? { inscricaoId, id: aluno.id, nome: aluno.nome, email: aluno.email } : null;
+    const inscritos = inscricoesAula.map(i => {
+      const aluno = alunos.find(a => a.id === i.alunoId);
+      const texto = aula.textos.find(t => t.id === i.textoId);
+      return aluno ? {
+        inscricaoId: i.id,
+        id: aluno.id,
+        nome: aluno.nome,
+        email: aluno.email,
+        textoId: i.textoId || '',
+        textoTitulo: texto ? texto.titulo : '',
+        textoAutor: texto ? texto.autor : ''
+      } : null;
     }).filter(Boolean);
 
     return {
@@ -171,6 +186,7 @@ app.get('/api/painel', (req, res) => {
       subtitulo: aula.subtitulo,
       data: aula.data || '',
       totalTextos: aula.textos.length,
+      textos: aula.textos.map(t => ({ id: t.id, titulo: t.titulo, autor: t.autor })),
       inscritos,
       vagas: 5 - inscritos.length,
       status: inscritos.length >= 2 ? 'completa' : 'precisa_alunos'

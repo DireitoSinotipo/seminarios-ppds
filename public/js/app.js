@@ -131,7 +131,10 @@ function renderPainelGrid() {
       ? `<div class="inscritos-lista">
           ${aula.inscritos.map(a => `
             <div class="inscrito-card">
-              <span class="inscrito-nome">${a.nome}</span>
+              <div class="inscrito-info">
+                <span class="inscrito-nome">${a.nome}</span>
+                ${a.textoTitulo ? `<span class="inscrito-texto" title="${a.textoAutor}">${a.textoAutor.split(',')[0]} — ${a.textoTitulo}</span>` : ''}
+              </div>
               <button class="remove-inscricao" onclick="removerInscricao('${a.inscricaoId}')" title="Remover inscrição">&times;</button>
             </div>
           `).join('')}
@@ -165,7 +168,7 @@ function renderPainelGrid() {
   }).join('');
 }
 
-// --- Inscrição via modal ---
+// --- Inscrição via modal (2 etapas: aluno → texto) ---
 function abrirInscricao(aulaId) {
   const aula = painelData.find(a => a.aulaId === aulaId);
   if (!aula) return;
@@ -191,7 +194,7 @@ function abrirInscricao(aulaId) {
   } else {
     bodyHTML = `
       <p style="font-size:0.85rem;color:var(--cor-texto-light);margin-bottom:0.8rem">
-        Selecione o aluno para inscrever na Aula ${aulaId}:
+        <strong>Etapa 1:</strong> Selecione o aluno
       </p>
       <ul class="modal-aluno-list">
         ${alunosDisponiveis.map(a => `
@@ -200,8 +203,8 @@ function abrirInscricao(aulaId) {
               <span class="nome">${a.nome}</span>
               ${a.email ? `<br><span class="email">${a.email}</span>` : ''}
             </div>
-            <button class="btn btn-sm btn-primary" onclick="inscreverAluno('${a.id}', ${aulaId})">
-              Inscrever
+            <button class="btn btn-sm btn-primary" onclick="escolherTexto('${a.id}', ${aulaId})">
+              Selecionar
             </button>
           </li>
         `).join('')}
@@ -212,12 +215,49 @@ function abrirInscricao(aulaId) {
   openModal(`Aula ${aulaId} — ${aula.titulo}`, bodyHTML);
 }
 
-async function inscreverAluno(alunoId, aulaId) {
+function escolherTexto(alunoId, aulaId) {
+  const aula = painelData.find(a => a.aulaId === aulaId);
+  const aluno = alunos.find(a => a.id === alunoId);
+  if (!aula || !aluno) return;
+
+  const bodyHTML = `
+    <p style="font-size:0.85rem;color:var(--cor-texto-light);margin-bottom:0.5rem">
+      <strong>Etapa 2:</strong> Escolha o texto que <strong>${aluno.nome}</strong> vai apresentar
+    </p>
+    <ul class="modal-texto-list">
+      ${aula.textos.map(t => {
+        const jaEscolhido = aula.inscritos.find(i => i.textoId === t.id);
+        const ocupado = jaEscolhido ? `<span class="texto-ocupado">Escolhido por ${jaEscolhido.nome}</span>` : '';
+        return `
+          <li class="${jaEscolhido ? 'texto-indisponivel' : ''}">
+            <div>
+              <span class="texto-autor">${t.autor}</span>
+              <span class="texto-titulo">${t.titulo}</span>
+              ${ocupado}
+            </div>
+            ${!jaEscolhido ? `
+              <button class="btn btn-sm btn-primary" onclick="inscreverAluno('${alunoId}', ${aulaId}, '${t.id}')">
+                Escolher
+              </button>
+            ` : ''}
+          </li>
+        `;
+      }).join('')}
+    </ul>
+    <button class="btn btn-sm btn-outline" style="margin-top:0.8rem" onclick="abrirInscricao(${aulaId})">
+      &larr; Voltar
+    </button>
+  `;
+
+  openModal(`Aula ${aulaId} — ${aula.titulo}`, bodyHTML);
+}
+
+async function inscreverAluno(alunoId, aulaId, textoId) {
   try {
     const res = await fetch('/api/inscricoes', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ alunoId, aulaId })
+      body: JSON.stringify({ alunoId, aulaId, textoId })
     });
 
     const data = await res.json();

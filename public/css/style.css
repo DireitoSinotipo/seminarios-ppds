@@ -489,11 +489,26 @@ body {
   border-left: 3px solid var(--cor-primaria-light);
 }
 
+.inscrito-info {
+  flex: 1;
+  min-width: 0;
+}
+
 .inscrito-nome {
   font-weight: 700;
   font-size: 0.9rem;
   color: var(--cor-primaria);
   letter-spacing: 0.2px;
+}
+
+.inscrito-texto {
+  display: block;
+  font-size: 0.72rem;
+  color: var(--cor-texto-light);
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .inscrito-card .remove-inscricao {
@@ -933,6 +948,57 @@ body {
 .modal-aluno-list .email {
   font-size: 0.8rem;
   color: var(--cor-texto-light);
+}
+
+.modal-texto-list {
+  list-style: none;
+  padding: 0;
+}
+
+.modal-texto-list li {
+  padding: 0.7rem 0.5rem;
+  border-bottom: 1px solid #f0f0f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.8rem;
+  border-radius: 6px;
+  transition: var(--transition);
+}
+
+.modal-texto-list li:hover:not(.texto-indisponivel) {
+  background: var(--cor-primaria-bg);
+}
+
+.modal-texto-list li:last-child {
+  border-bottom: none;
+}
+
+.modal-texto-list .texto-autor {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--cor-texto-light);
+  font-weight: 500;
+}
+
+.modal-texto-list .texto-titulo {
+  display: block;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--cor-texto);
+  margin-top: 2px;
+}
+
+.modal-texto-list .texto-ocupado {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--cor-alerta);
+  font-style: italic;
+  margin-top: 3px;
+}
+
+.modal-texto-list li.texto-indisponivel {
+  opacity: 0.5;
 }
 
 .empty-state {
